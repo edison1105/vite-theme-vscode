@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "publisher": "edison1105",
   "license": "MIT",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "*"
   },
