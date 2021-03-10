@@ -1,0 +1,25 @@
+{
+  "name": "vite-theme-night",
+  "displayName": "%displayName%",
+  "description": "%description%",
+  "version": "1.0.0",
+  "publisher": "vscode",
+  "license": "MIT",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "Vite Theme Night",
+        "label": "%themeLabel%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vite-theme-night.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microsoft/vscode.git"
+  }
+}
