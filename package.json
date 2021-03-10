@@ -3,7 +3,7 @@
   "displayName": "%displayName%",
   "description": "%description%",
   "version": "1.0.0",
-  "publisher": "vscode",
+  "publisher": "edison1105",
   "license": "MIT",
   "engines": {
     "vscode": "*"
@@ -20,6 +20,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/vscode.git"
+    "url": "https://github.com/edison1105/vite-theme-vscode.git"
   }
 }
