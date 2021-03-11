@@ -5,4 +5,4 @@ Theme for Visual Studio Code inspired by Vite.js
 https://github.com/edison1105/vite-theme-vscode
 
 # Preview
-![screen](images/screen.png)
+![screen](images/screen.jpg)
